@@ -10,7 +10,8 @@
  */
 int main(void)
 {
-	int digit1, digit2, digit3;
+	int digit1, digit2;
+	int digit3;
 
 	for (digit1 = 0; digit1 < 8; digit1++)
 	{
